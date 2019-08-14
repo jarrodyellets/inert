@@ -4,7 +4,7 @@
 
 Static file and directory handlers plugin for hapi.js.
 
-[![Build Status](https://secure.travis-ci.org/hapijs/inert.svg)](http://travis-ci.org/hapijs/inert)
+[![Build Status](https://secure.travis-ci.org/hapijs/inert.svg)](http://travis-ci.org/hapijs/inert) [![Greenkeeper badge](https://badges.greenkeeper.io/hapijs/inert.svg)](https://greenkeeper.io/)
 
 **inert** provides new [handler](https://github.com/hapijs/hapi/blob/master/API.md#serverhandlername-method)
 methods for serving static files and directories, as well as adding a `h.file()` method to the
