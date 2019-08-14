@@ -17,13 +17,13 @@
     "@hapi/bounce": "1.x.x",
     "@hapi/hoek": "8.x.x",
     "@hapi/joi": "15.x.x",
-    "lru-cache": "4.1.x"
+    "lru-cache": "~5.1.1"
   },
   "devDependencies": {
-    "@hapi/code": "5.x.x",
+    "@hapi/code": "^6.0.0",
     "@hapi/file": "1.x.x",
     "@hapi/hapi": "18.x.x",
-    "@hapi/lab": "19.x.x"
+    "@hapi/lab": "^20.0.0"
   },
   "scripts": {
     "test": "lab -f -a @hapi/code -t 100 -L",
